@@ -32,7 +32,10 @@ a{
   background-color: #ffffff; /* White for even stripes */
 }
 
-
+th, tr, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
 
 
 
